@@ -1,0 +1,196 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+/* Start Header */
+
+.header {
+    padding: 3px 0;
+}
+
+.logo {}
+
+.logo img {
+    cursor: pointer;
+}
+
+.nav {
+    margin-top: 12px;
+}
+
+.nav ul {
+    list-style: none;
+}
+
+.nav ul li {
+    float: left;
+    margin-left: 38px;
+    font-size: 19px;
+    color: #88959B;
+    cursor: pointer;
+}
+
+/* End Header */
+
+/* Start Border */
+
+.border {
+    border-bottom: 1px solid black;
+}
+
+/* End Border */
+
+/* Start Content */
+
+.content {
+    text-align: center;
+    margin-top: 31px;
+}
+
+.content h1 {
+    font-size: 45px;
+    color: #1E3456;
+}
+
+.content h2 {
+    margin: 10px 0;
+    font-size: 38px;
+    color: #0A87E2;
+}
+
+.content p {
+    margin: 10px 65px;
+    font-size: 19px;
+    color: #88959B;
+}
+
+.content img {
+    margin-top: 10px;
+    height: 500px;
+    width: 600px;
+    cursor: pointer;
+}
+
+/* End Content */
+
+/* Start Success */
+
+.success {
+    margin-top: 50px;
+    margin-bottom: 40px;
+}
+
+.left-success {
+    text-align: right;
+}
+
+.left-success h1 {
+    font-size: 60px;
+    color: #F05A6C;
+}
+
+.left-success p {
+    margin-left: 65px;
+    font-size: 19px;
+    color: #88959B;
+}
+
+.right-success {}
+
+.right-success h1 {
+    margin-right: 30px;
+    font-size: 65px;
+    color: 1C2A57;
+    color: #1C2A57;
+}
+
+/* End Success */
+
+/* Start Creativity */
+
+.creativity {
+    margin-top: 80px;
+}
+
+.left-creativity {
+    background-color: #FDEAEC;
+    padding: 5px 22px;
+}
+
+.left-creativity img {
+    /* height: 250px; */
+    /* width: 275px; */
+    cursor: pointer;
+    width: 90%;
+    /* height: 100%; */
+}
+
+.left-creativity h1 {
+    font-size: 28px;
+}
+
+.left-creativity p {
+    font-size: 17px;
+}
+
+.middle-creativity {
+    background-color: #EAF9F4;
+    padding: 5px 21px;
+}
+
+.middle-creativity img {
+    /* height: 250px; */
+    /* width: 275px; */
+    cursor: pointer;
+    width: 90%;
+}
+
+.middle-creativity h1 {
+    font-size: 28px;
+}
+
+.middle-creativity p {
+    font-size: 17px;
+}
+
+.right-creativity {
+    background-color: #FFF5E5;
+    padding: 5px 22px;
+}
+
+.right-creativity img {
+    /* height: 250px; */
+    /* width: 275px; */
+    cursor: pointer;
+    width: 90%;
+}
+
+.right-creativity h1 {
+    font-size: 28px;
+}
+
+.right-creativity p {
+    font-size: 17px;
+}
+
+/* End Creativity */
+
+/* Start Footer */
+
+.footer {
+    text-align: center;
+    margin-top: 90px;
+    background-color: #008AFF;
+    padding: 16px;
+}
+
+.footer p {
+    color: #F5FFFD;
+}
+
+.footer span {
+    font-size: 24px;
+}
+
+/* End Footer */
